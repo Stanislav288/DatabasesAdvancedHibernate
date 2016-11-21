@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "originPlanet": {
+    "name": "Indigo-3"
+  },
+  "teleportPlanet": {
+    "name": "Kepler-1"
+  },
+  "victimsCount": 4
+}

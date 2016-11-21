@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Asylus Ovelox",
+    "homePlanet": {
+      "name": "Kepler-1"
+    }
+  },
+  {
+    "name": "Zukhar Thurc",
+    "homePlanet": {
+      "name": "Kepler-3"
+    }
+  },
+  {
+    "name": "Baron Newhousen",
+    "homePlanet": {
+      "name": "Voyager-11"
+    }
+  },
+  {
+    "name": "Viria Destr",
+    "homePlanet": {
+      "name": "Alpha-N20"
+    }
+  },
+  {
+    "name": "Seren Joseph",
+    "homePlanet": {
+      "name": "Alpha-N20"
+    }
+  },
+  {
+    "name": "Isdislav Irenovic",
+    "homePlanet": {
+      "name": "Voyager-11"
+    }
+  },
+  {
+    "name": "Aina",
+    "homePlanet": {
+      "name": "Alpha-N45"
+    }
+  },
+  {
+    "name": "Dante",
+    "homePlanet": {
+      "name": "Indigo-3"
+    }
+  },
+  {
+    "name": "Kaliowe Okalinaine",
+    "homePlanet": {
+      "name": "Kepler-1"
+    }
+  },
+  {
+    "name": "Pokolri Paputo",
+    "homePlanet": {
+      "name": "Alpha-N20"
+    }
+  },
+  {
+    "name": "Nero",
+    "homePlanet": {
+      "name": "Kepler-6"
+    }
+  },
+  {
+    "name": "Qort Xurst",
+    "homePlanet": {
+      "name": "Alpha-N20"
+    }
+  }
+]
